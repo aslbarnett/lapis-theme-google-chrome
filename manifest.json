@@ -1,34 +1,29 @@
 {
     "manifest_version": 3,
     "name": "Lapis Chrome Theme",
-    "description": "Dark blue theme for Gooegle Chrome",
+    "description": "Dark blue theme for Google Chrome",
     "author": "Alex Barnett",
     "version": "1.0",
     "theme": {
       "colors": {
         "bookmark_text": [214, 226, 255],
-  
         "frame": [27, 31, 39],
         "frame_inactive": [21, 24, 30],
         "frame_incognito": [27, 31, 39],
         "frame_incognito_inactive": [21, 24, 30],
-  
         "background_tab": [27, 31, 39],
         "background_tab_inactive": [21, 24, 30],
         "background_tab_incognito": [27, 31, 39],
         "background_tab_incognito_inactive": [21, 24, 30],
-  
         "tab_background_text": [214, 226, 255],
         "tab_background_text_inactive": [214, 226, 255],
         "tab_background_text_incognito": [214, 226, 255],
         "tab_background_text_incognito_inactive": [214, 226, 255],
         "tab_text": [214, 226, 255],
-  
         "toolbar": [45, 57, 83],
         "toolbar_button": [214, 226, 255],
         "toolbar_button_icon": [214, 226, 255],
         "toolbar_text": [214, 226, 255],
-  
         "ntp_background": [27, 31, 39],
         "ntp_header": [214, 226, 255],
         "ntp_text": [214, 226, 255],
