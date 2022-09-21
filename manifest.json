@@ -15,7 +15,7 @@
         "background_tab_inactive": [21, 24, 30],
         "background_tab_incognito": [27, 31, 39],
         "background_tab_incognito_inactive": [21, 24, 30],
-        "tab_background_text": [214, 226, 255],
+        "tab_background_text": [131, 171, 252],
         "tab_background_text_inactive": [214, 226, 255],
         "tab_background_text_incognito": [214, 226, 255],
         "tab_background_text_incognito_inactive": [214, 226, 255],
