@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/aslbarnett/lapis-theme-google-chrome/issues">
+  <a href="https://chrome.google.com/webstore/detail/lapis-chrome-theme/hmcmhgomamidaaodladnploplghibodb">
     <img alt="Open Github Issues" src="https://img.shields.io/chrome-web-store/v/hmcmhgomamidaaodladnploplghibodb?label=Version&color=83ABFC&labelColor=1B1F27">
   </a>
 
